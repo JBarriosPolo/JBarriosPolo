@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<!--
-**JBarriosPolo/JBarriosPolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**JBarriosPolo/JBarriosPolo**.
 
-[![JBarriosPolo](https://github-profile-trophy.vercel.app/?username=JbarriosPolo)](https://github.com/ryo-ma/github-profile-trophy)
+![Metrics](https://metrics.lecoq.io/JBarriosPolo?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+<!---
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+!--->
