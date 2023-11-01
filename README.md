@@ -3,6 +3,8 @@
 <!--
 **JBarriosPolo/JBarriosPolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+[![JBarriosPolo](https://github-profile-trophy.vercel.app/?username=JbarriosPolo)](https://github.com/ryo-ma/github-profile-trophy)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
