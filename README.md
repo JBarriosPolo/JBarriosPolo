@@ -1,19 +1,41 @@
-### Hi there 👋
-
-
+Te doy la bienvenida a mi GitHub
+<!----------------------------------------------->
 **JBarriosPolo/JBarriosPolo**.
+<!----------------------------------------------->
+Aquí podrás ver un poco de mis conocimientos en la línea del desarrollo de software y web.
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=JBarriosPolo&show_icons=true&theme=dracula&hide=stars,issues)
-<!---
+## Experiencia
 
-Here are some ideas to get you started:
+- **Desarrollo de Módulos:** He contribuido al desarrollo de varios módulos personalizados en Odoo para adaptar la plataforma a las necesidades específicas de mis clientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-!--->
+- **Implementación de Odoo:** He liderado equipos en la implementación exitosa de sistemas Odoo en empresas de diferentes industrias, optimizando procesos empresariales y mejorando la eficiencia.
+
+- **Integraciones:** Tengo experiencia en la integración de Odoo con otras aplicaciones y sistemas, como sistemas de contabilidad, CRM y soluciones de comercio electrónico.
+
+- **Soporte Técnico:** He proporcionado soporte técnico a empresas que utilizan Odoo, resolviendo problemas y brindando soluciones rápidas.
+
+## Contribuciones a la Comunidad
+
+- Soy miembro activo de la comunidad de Odoo y he contribuido con parches y mejoras al proyecto de código abierto.
+
+- He compartido mi conocimiento sobre Odoo a través de artículos y tutoriales en línea, ayudando a otros desarrolladores y usuarios a comprender y utilizar la plataforma de manera efectiva.
+
+## Habilidades
+
+- Python
+- Desarrollo de módulos Odoo
+- Implementación y personalización de Odoo
+- Integraciones de Odoo
+- Soporte técnico de Odoo
+- Gestión de proyectos
+- Desarrollo en PHP
+- Conexiones XML-RPC
+- Manejo de datos
+- Migracios de datos
+
+¡Estoy entusiasmado por seguir colaborando en proyectos relacionados con Odoo y aprender constantemente! No dudes en contactarme si tienes alguna pregunta o si estás interesado en trabajar juntos en un proyecto relacionado con Odoo.
+
+¡Gracias por visitar mi perfil!
+
+<!-----------------ICONOS---------------------------->
+
