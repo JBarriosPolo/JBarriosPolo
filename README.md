@@ -40,6 +40,6 @@ Aquí podrás ver un poco de mis conocimientos en la línea del desarrollo de so
 <!-----------------ICONOS---------------------------->
 [![Github](icons/github.png)](https://github.com/JBarriosPolo) ![Git](icons/git.png) [![Docker](icons/docker.png)](https://hub.docker.com/u/hikopolo) ![Bash](icons/bash.png) ![Python](icons/python.png) ![PHP](icons/php.png) ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png) ![XML](icons/xml.png) ![PostgreSQL](icons/psq.png)
 <!----------------------------------------------------->
-<!---------staks--------->
-[![trophy](https://github-profile-trophy.vercel.app/?username=JBarriosPolo)](https://github.com/ryo-ma/github-profile-trophy)
+<!---------Lenguajes--------->
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBarriosPolo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
 <!---------------------------------------------------->
