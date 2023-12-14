@@ -39,3 +39,7 @@ Aquí podrás ver un poco de mis conocimientos en la línea del desarrollo de so
 
 <!-----------------ICONOS---------------------------->
 [![Github](icons/github.png)](https://github.com/JBarriosPolo) ![Git](icons/git.png) [![Docker](icons/docker.png)](https://hub.docker.com/u/hikopolo) ![Bash](icons/bash.png) ![Python](icons/python.png) ![PHP](icons/php.png) ![HTML](icons/html.png) ![CSS](icons/css.png) ![JavaScript](icons/javascript.png) ![XML](icons/xml.png) ![PostgreSQL](icons/psq.png)
+<!----------------------------------------------------->
+<!---------staks--------->
+[![trophy](https://github-profile-trophy.vercel.app/?username=JBarriosPolo)](https://github.com/ryo-ma/github-profile-trophy)
+<!---------------------------------------------------->
